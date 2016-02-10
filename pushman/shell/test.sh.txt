@@ -1,0 +1,4 @@
+curl \
+ -d "token=eelxIibloS8:APA91bG-xWHGD33A1mz-ouoZIZGQpZjw0DSQWNajvaZred6Le-LfQapeqo7gjmhw0e3b71YxdkgqzVmc0mOuvVxCnfQolpkiJj4ZmXCg-E8HrwB-DzSiOKd9Rw-kVSrRN3I5s9-jXLHv" \
+ -d "msg=young-mo-ya" \
+ http://localhost:19090/push/send
